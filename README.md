@@ -770,6 +770,22 @@ One of the remarkable features of InkAi is its body mapping technology, allowing
 <br />
 
 
+### Shortodella
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shortodella.webp" alt="Shortodella">
+
+#### AI Image Generator & Video Generator With a Canvas Editor
+
+
+[Visit](https://shortodella.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Shortodella - AI Video Generator & Image Generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. Free tier available.
+
+
+[More Information and Pricing](https://shortodella.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🌄 Art & Image Generator Applications on AI Collection](https://thataicollection.com/en/categories/art-and-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -5253,6 +5269,22 @@ As the founder I run a whole TikTok account just with those videos and 10% of th
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/🫐-acaivideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Shortodella
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shortodella.webp" alt="Shortodella">
+
+#### AI Video Generator & Image Generator With a Canvas Editor
+
+
+[Visit](https://shortodella.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Shortodella - AI Video Generator & Image Generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. Free tier available.
+
+
+[More Information and Pricing](https://shortodella.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
