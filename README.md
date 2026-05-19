@@ -3642,6 +3642,22 @@ Chrome extension that cuts your writing time by 98% with AI-powered responses. B
 <br />
 
 
+### Dassi
+<img align="left" width="240" src="https://dassi.ai/og-image.png" alt="Dassi">
+
+#### AI Browser Agent That Automates Work in Chrome
+
+
+[Visit](https://dassi.ai)
+
+Dassi is a Chrome extension AI browser agent that clicks, fills forms, and navigates pages for you. Bring your own API key from Claude, GPT, or Gemini. Automates repetitive browser tasks so you can focus on what matters. 14-day free trial.
+
+
+[More Information and Pricing](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi)
+
+<br />
+
+
 [See All 🔌 Plugins & Extensions Applications on AI Collection](https://thataicollection.com/en/categories/plugins-and-extensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
