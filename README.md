@@ -5507,3 +5507,4 @@ Smodin provides all-in-one writing essentials. Writing and homework assistance p
 
 ---
 
+- [MeterCall](https://metercall.ai/?v=c&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
