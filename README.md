@@ -6079,6 +6079,19 @@ Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat
 
 [More Information and Pricing](https://thataicollection.com/en/application/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
+### igly.ai
+<img align="left" width="240" src="https://igly.ai/og-image.png" alt="igly.ai">
+
+#### Free AI Image Editor for E-commerce Sellers
+
+
+[Visit](https://igly.ai/)
+
+igly.ai is a free AI image editor designed for e-commerce sellers, offering 12+ tools including background removal, object inpaint, image upscale, virtual try-on, outpaint, and more. Browser-based, no signup required.
+
+
+[More Information](https://igly.ai/)
+
 <br />
 
 
