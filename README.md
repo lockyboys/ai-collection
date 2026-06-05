@@ -423,6 +423,7 @@ Centralize your team’s AI in one secure workspace. AICamp empowers modern team
 
 ## AI Art & Illustration
 ### StickerIt.AI
+- [ZSky AI](https://zsky.ai) - Free, unlimited AI image and HD video generator with synced audio in a single render. Ad-supported free tier; paid plans from $19/month.
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
 
 #### StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution
@@ -10312,4 +10313,3 @@ Discover Rytr, your free AI writing assistant. Craft high-quality content faster
 **[⬆ Back to Index](#index)**
 
 ---
-
